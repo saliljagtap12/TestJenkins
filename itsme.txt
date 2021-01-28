@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 90FB-C176
+
+ Directory of C:\Users\salil\.jenkins\workspace\HelloWorld
+
+28-01-2021  07:48    <DIR>          .
+28-01-2021  07:48    <DIR>          ..
+28-01-2021  07:13               674 Hello.class
+28-01-2021  07:11               151 Hello.java
+28-01-2021  07:48                 0 itsme.txt
+28-01-2021  07:43               455 readme.txt
+               4 File(s)          1,280 bytes
+               2 Dir(s)  635,745,144,832 bytes free
